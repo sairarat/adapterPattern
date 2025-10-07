@@ -24,4 +24,5 @@ Each device has different plug types, voltage, and amperage requirements.
 - RefrigeratorAdapter - An adapter for plugging a refrigerator into a standard power outlet. It adapts the Refrigerator to the PowerOutlet interface, translating plugIn() to startCooling().
 - SmartphoneAdapter - An adapter for plugging a smartphone charger into a standard power outlet. It adapts the SmartphoneCharger to the PowerOutlet interface, translating plugIn() to chargePhone().
 
-
+## Class Diagram
+![imgage](https://github.com/sairarat/adapterPattern/blob/master/UML%20Class%20Diagram_Adapter%20Pattern%20.png)
